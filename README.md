@@ -48,7 +48,7 @@ House-Price-EDA/
 └── requirements.txt
 ```
 
-## Project Visualizations
+## Project Dashboard Visualizations 
 
 ![House Price EDA Dashboard](eda_dashboard.png) 
 
